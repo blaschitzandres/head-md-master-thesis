@@ -2,17 +2,19 @@
 
 ## Themes:
 
-The augmentation and use of digital, modern systems in the field of signage design with specific regard towards museums in Switzerland.
-Usage of forensic architecture in order to recreate visual excerpts of “El Junquito Raid” from 2018 in digital space. Usage of reconstruction of the aforementioned as evidences in potential legal processes in jurisdictions.
-The Darien Gap: Reconstruction of a repressed imaginary. Mapping traces of a treacherous threshold.
+- The augmentation and use of digital, modern systems in the field of signage design with specific regard towards museums in Switzerland.
+
+- Usage of forensic architecture in order to recreate visual excerpts of “El Junquito Raid” from 2018 in digital space. Usage of reconstruction of the aforementioned as evidences in potential legal processes in jurisdictions.
+
+- The Darien Gap: Reconstruction of a repressed imaginary. Mapping traces of a treacherous threshold.
 
 ## Research Questions:
 
-How German signage design and its best practices can be applied in three-dimensional spatial computing applications while considering accessibility for handicap visitors in Swiss museums.
+- How German signage design and its best practices can be applied in three-dimensional spatial computing applications while considering accessibility for handicap visitors in Swiss museums.
 
-How Forensic Architecture reconstructs crimes against humanity and how these can be used as evidences in potential legal processes in jurisdictions as it was done for the “El Junquito Raid” of 2018
+- How Forensic Architecture reconstructs crimes against humanity and how these can be used as evidences in potential legal processes in jurisdictions as it was done for the “El Junquito Raid” of 2018
 
-In what extent the Darien Gap represents a threat to migrants of the Americas and how the adversities experienced by survivors can be used to craft an immersive experience that warns and advises about the journey.
+- In what extent the Darien Gap represents a threat to migrants of the Americas and how the adversities experienced by survivors can be used to craft an immersive experience that warns and advises about the journey.
 
 ## References Topic One:
 
