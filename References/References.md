@@ -1,4 +1,4 @@
-# HEAD M.A. Refereces | Themes
+# HEAD M.A. References | Themes
 
 ## Themes:
 
