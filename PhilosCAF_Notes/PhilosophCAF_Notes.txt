@@ -1,0 +1,43 @@
+PHILOSOPHY OF COMPUTER ART | REVIEW
+
+
+The Book "A Philosophy of Computer Art" by Dominic McIver Lopes is key in understanding core concepts about Interactivity and the User, but above all about understanding the blurring lines of concepts and roles within the Computer Art world.
+
+McIver Lopes´ book makes a distinction between digital art and computer art by providing formulas with clauses that have to be fulfilled in order to be labeled as one or the other. Digital art "involves computer-based encoding in a common digital code" whereas an item of computer art is labeled as such "just in case (1) it´s art, (2) it´s run on a computer, (3) it´s interactive, and (4) it´s interactive because it´s run on a computer."
+
+The author makes use of the term "computer art" instead of "interactive art", since he aims to address the interactivity of items that exploit computing technology. A work of art is interactive "just in case it prescribes that the actions of its users help generate its display".
+
+But what is exactly a display?
+
+A work´s display as defined by McIver Lopes is "a structure that results from the artists´creativity and that we apprehend in order to grasp a work´s meaning and aesthetic qualities". In novels, it´s a sequence of sentence that tells a story. In music, it´s a sequence of body movements.
+
+Some of the main critiques or complaints of the Computer Art Form is (1) the argument from the creativity sink and (2) the argument from the mind numbing. This critique of computer-based art states that "the value of an art work is measured by its power to provoke and sustain hard thinking, and works that fail this test of profundity fail as art". The critique highlight that the value of these computer-based works lies in abetting active thought and as  computer-based art works allegedly impede active thought they lack artistic value.
+
+Is computer art mind-numbing?
+
+The arguments´ second clause states that computer-based art works impede active thought. However, active thought requires distance, a condition affording focussed yet leisurely attention.
+
+Depending on the computer-based work, distance can vary. For instance, in oder to beat a video game or level up, one must make a big cognitive effort. 
+
+The argument states that being caught up in making a specific display of a work vanishes the distance rquired for serious thought. Nonetheless, it doesn´t take into account that we appreciate computer art works through their different displays. Standards of computer art are appreciated by interacting and enjoying different works, which delivers distance in a way. 
+
+Distance is nonetheless a feature that can become more present when we appreciate a work through repetition interspersed with reflecting on the significance of the differences between interactions. The user becomes more aware of its interacyions, as he or she discovers and explores a work and 
+
+Some other experts believe that computer art embody a movement that challanges traditional art by blurring the lines between artist, performer, and audience. These new works alter the artist-audience relationship. However, this doesn´t mean that the role of an artist changes. A person plays the role of artist "when and only when they act intending to make a work in art form, with the result that the work wouldn´t have some of the features it has were it not for their action".
+
+By the end of the book "A Philosophy of Computer Art", McIver Lopes devotes the last chapter of it to Games, in which he explains the nuances and similiraties of computer art and games and presents some advocates that consider video games as computer art. There are arguments that consider games as art and some that deny art status. Moreover, some game experts state that "the artistic elements are merely suppport for the gameplay".
+
+Another interesting concept is brought up in the last chapter of the book: the notion of flow. 
+
+Flow is a feature in which its challenging its players in a way that keeps pace with their ability (within a given range). This concept is key in understanding the success of some computer art works.
+
+
+
+
+
+
+
+
+
+
+

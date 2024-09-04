@@ -1,0 +1,92 @@
+
+
+THESIS STRUCTURE | THEMES + JOURNEY REVIEW + LISA PARK REVIEW
+
+
+- The interaction and narration dilemma
+- The narrative spectrum
+- Defining cozy games 
+  - journey
+  - abzu
+  - GRIS
+  - "cozy games"
+  - headspace xr
+- mindful interactive installations
+- flow
+
+
+----------
+Campbell, Colin (November 28, 2022). "What are Cozy Games, and What Makes Them Cozy?". GamesIndustry.biz. Archived from the original on December 7, 2022. Retrieved March 12, 2024.
+
+---------
+
+Joint co-founder Alexandre Stroukoff adds: "People get depressed, and they need to relax. This has always existed in gaming, but it was a less marketable idea in the past. Now, we recognize that it's an important part of playing games."
+
+-----
+
+A repeated refrain among developers is that emotional resonance, pacing, and "vibe" are the most important features of a cozy game.
+
+"Pacing is important, allowing the player to play at whatever pace they want," says Lescuyer. "You feel like you're inhabiting a nice place, like you're on vacation on a tropical island, and everyone is nice to you."
+
+--
+
+JOURNEY:
+
+Driven by minimal interactions, ´Journey´ lets the user discover unknown landscapes and seamlessly unlock  meaningful collectibles, storytelling bits and odd creatures. The game smoothly toggles between affordance plus interaction and stortelling plus passiveness, as you unpuzzle milestones that level you up while you discover your surroundings.
+
+With two simple interactions, soaring and producing an echo the user starts discovering the power he has to solve the mysteries trapped in the scenography of the different worlds. Journey is a game that absorbs the user while he is trying to understand the cues of the newland that he is discovering.
+
+´Journey´is a game that evokes perplexity, fear and togetherness in a cozy yet joyful way. It feels like a playful mantra with a spectrum of moods. Moreover, the ambient sound design enhances the experience as the tunes perfectly transition within the journey´s discovery.  
+  
+----
+interactive meditative Installations:
+
+https://actu.epfl.ch/news/an-immersive-installation-to-promote-meditation/
+https://vimeo.com/487713594
+http://ispace.iat.sfu.ca/project/sonic-cradle/
+https://www.fact.co.uk/event/group-therapy-mental-distress-in-a-digital-age
+https://www.georgekhut.com/media-art/heart-library
+
+LISA PARK: DATA DRIVEN VLOG
+
+In 2020, Korean-american interaction designer Lisa Park initiated a series of video documents entitled #Data-Driven Vlog which aim to showcase her daily life with a biometric sensor. The artist had been documenting and journaling her daily life with the aforementioned sensor in the framework of IA&A at Hilyer´s "There, there" exhibition. The Vlog videos can be retrieved from her vimeo channel. 
+
+In 2021, Park released a video of the series entitled #Data-driven Meditation in which the artist uses a Brainwave Sensor (Muse EEG) to modulate meditative tunes in real-time via this sensor and its detected brainwave data. In this video, the artist uses the input of the brainwave data to enhance her meditation practice.
+
+#Data-driven vlog is a compendium of videos that range from baking to wine drinking and seek to showcase the possibilities of using a Brainwave sensor in daily 
+
+LISA PARK: EUNOIA
+
+In 2013, Interaction designer Lisa Park released her interactive performance "Eunoia" which uses an EEG Brainwave sensor to translate the brainwave data, meaning its states of mind, into sounds. 
+
+The performance consisted mainly of a "neurosky" brainwave headset and self-programmed software that allowed Park to musicalize her own brainwave data and hence depict her mind states. Other media used for the performance included aluminum plates, a speaker, an audio interface and water.
+
+The custom code had the affordances of calibrating volume, pitch and panning of the sounds that were linked with Park´s varying states of "Attention" and "Meditation" values. 
+
+Enoia´s output consisted not just of sound emited by several speakers but of the vibration patterns drawn on water that would depict Park´s mental states and their intensity in the most ethereal way.
+
+Park states that her motivation behind this performance "was to achieve inner calmness, having control over the artist´s consciousness and thoughts".
+
+EPFL+ECAL Lab: Ming Shan Digital Experience
+
+In 2020, the EPFL+ECAL Lab teamed up with the Ming Shan Taoist Centre and developed a high-tech biofeedback-driven meditation device.
+
+The EPFL+ECAL Lab started its research with the following research question: How can an immersive installation support meditation in a Taoist centre?
+
+The research and scientific evaluations of the Lab led, among others, to a key learning on multimodal biofeedback: "using light and sound can support the individual and collective meditative experience"
+
+Light and sound are essential features of the experience crafted by the lab in which practictioners are meant to seat within a light ring that changes in intensity, color and rythm based on their awareness and attenttion to to their own body. Meditation practitioners get to meditate in state-of-the-art immersive devices in which their physiological information is retrievde from sensors in real-time generating a stimulating audiovisual feedback.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
